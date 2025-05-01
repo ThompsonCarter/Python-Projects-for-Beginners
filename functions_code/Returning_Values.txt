@@ -1,0 +1,4 @@
+def add_numbers(a, b):
+    return a + b
+sum = add_numbers(5, 3)  # sum will store the result of 5 + 3, which is 8
+print(sum)  # Output: 8

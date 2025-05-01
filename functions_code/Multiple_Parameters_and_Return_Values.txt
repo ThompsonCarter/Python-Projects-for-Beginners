@@ -1,0 +1,5 @@
+def get_user_info(name, age):
+    return name, age
+
+user_info = get_user_info("Alice", 30)
+print(user_info)  # Output: ('Alice', 30)
